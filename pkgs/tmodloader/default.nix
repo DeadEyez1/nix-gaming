@@ -15,7 +15,7 @@ in
 
     src = fetchzip {
       url = "https://github.com/tModLoader/${pname}/releases/download/v${version}/tModLoader.zip";
-      hash = "";
+      hash = "sha256-bfZT33dFVbpv+feQeW/u3akdD21JxwxTYAuOkR6B2fs=";
       stripRoot = false;
     };
 
